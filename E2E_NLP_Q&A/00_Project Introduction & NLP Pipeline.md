@@ -1,5 +1,5 @@
+# ${\color{red}Project \space \color{red}Introduction \space \color{red} and\space \color{red} NLP\space \color{red}Pipeline:}$
 
-# <font color="blue">Project Introduction & NLP Pipeline:</font>
 
 ## **<font color="red">**1. What is the purpose of a project introduction in the context of natural language processing (NLP) projects?**</font>**
 
